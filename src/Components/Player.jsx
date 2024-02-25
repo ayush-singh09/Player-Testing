@@ -39,7 +39,7 @@ function Player() {
             setTime(timeRef.current.currentTime);
           }}
           className="aud"
-          src="..\src\assets\Banjaara.mp3"
+          src="..\assets\Banjaara.mp3"
         ></audio>
   
         <div className="w-full flex flex-col gap-4">
